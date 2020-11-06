@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gugudan": "cd 01_구구단 && webpack"
+    "gugudan_hooks": "cd 01_구구단-hooks && webpack",
+    "gugudan_class": "cd 02_구구단-class && webpack"
   },
   "author": "coffeemori",
   "license": "MIT",
